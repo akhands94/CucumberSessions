@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="43976" started-at="2020-02-11T16:04:48 IST" finished-at="2020-02-11T16:05:32 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="43976" started-at="2020-02-11T16:04:48 IST" finished-at="2020-02-11T16:05:32 IST">
+      <class name="Stepdef.Parameter">
+        <test-method status="PASS" signature="f()[pri:0, instance:Stepdef.Parameter@3224f60b]" name="f" duration-ms="43918" started-at="2020-02-11T16:04:48 IST" finished-at="2020-02-11T16:05:32 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+      </class> <!-- Stepdef.Parameter -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
